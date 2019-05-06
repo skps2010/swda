@@ -29,7 +29,7 @@ int get(int a)
 int main()
 {
 	puts("歡迎使用存檔修改器");
-	puts("物品代碼請見：https://ppt.cc/fRQtJx");
+	puts("物品代碼請見：https://github.com/skps2010/swda/blob/master/code.txt");
 	puts("請輸入存檔名稱：");
 	char s[129];
 
